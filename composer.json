@@ -1,5 +1,5 @@
 {
-    "name": "webklex/laravel-imap",
+    "name": "marat00016/laravel-imap",
     "type": "library",
     "description": "Laravel IMAP client",
     "keywords": [
